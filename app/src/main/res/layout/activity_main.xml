@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:id="@+id/main_layout"
+    >
+
+    <ImageView
+        android:id="@+id/lock_icon"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="80dp"
+        />
+
+    <TextView
+        android:id="@+id/lock_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_rectangle_1"
+        android:paddingLeft="16dp"
+        android:paddingTop="8dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="8dp"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="48dp"
+        />
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="48dp"
+        android:src="@drawable/ic_baseline_fingerprint_24px"
+        android:layout_marginLeft="115dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="43dp"
+        android:text="Use fingerprint to unlock"
+        android:layout_marginTop="48dp"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        />
+
+</LinearLayout>
