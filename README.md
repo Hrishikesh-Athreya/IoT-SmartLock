@@ -31,3 +31,9 @@ The smart lock is a simple and secure lock which  you can open with the fingerpr
 
 ## API reference 
 * [Thingspeak API](https://in.mathworks.com/help/thingspeak/)
+
+## Contributors 
+* [Hrishikesh Athreya](https://github.com/Hrishikesh-Athreya)
+* [Riddhi Athreya](https://github.com/RiddhiAthreya)
+* Shivani 
+* Rishab 
