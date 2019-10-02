@@ -1,4 +1,4 @@
-# SmartLock
+# IoT SmartLock
 > A fingerprint IoT lock designed and developed with simplicity and ease of access in mind.  
 
 The smart lock is a simple and secure lock which  you can open with the fingerprint scanner in your phone and the press of a button. 
